@@ -3,18 +3,24 @@
 ## Table of Contents
 
 1. [About](#about)
-2. [Purpose of Project](#purpose-of-project)
-3. [HR DataBase Model](#hr-database-model)
-4. [SQL Queries](#sql-queries)
+2. [Raw Data](#raw-data)
+3. [Purpose of Project](#purpose-of-project)
+4. [HR DataBase Model](#hr-database-model)
+5. [SQL Queries](#sql-queries)
     - [Easy Level (10 Questions)](#easy-level-10-questions)
     - [Intermediate Level (20 Questions)](#intermediate-level-20-questions)
     - [Advanced Level (4 Questions)](#advanced-level-4-questions)
-5. [SQL Code](#sql-code)
-6. [Conclusion](#conclusion)
+6. [SQL Code](#sql-code)
+7. [Conclusion](#conclusion)
 
 ## About
 
 This project focuses on querying and analyzing the HR dataset using SQL. The dataset includes information about employees, departments, job titles, salaries, commissions, and more. By executing SQL queries on this dataset, various aspects of HR management and employee information are explored, providing insights and valuable information for decision-making processes.
+
+## Raw Data
+
+Raw data is taken from this website - https://www.w3resource.com/mysql-exercises/
+Raw data is also available in a file named 'Hr dataset'
 
 ## Purpose of Project
 
